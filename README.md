@@ -1,0 +1,4 @@
+streamresources
+===============
+
+Stream resources
